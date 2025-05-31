@@ -14,7 +14,9 @@ With over 5 years of experience developing monitoring solutions, I specialize in
 
 ## 🌐 Connect with Me
 
-- [Upwork Profile](https://www.upwork.com/freelancers/~0183391c0fd60e08f6)  
+- [Upwork Profile](https://www.upwork.com/freelancers/~0183391c0fd60e08f6)
+- [LinkedIn Profile](https://www.linkedin.com/in/filipe-rosenbrock-98b5a9a0/) 
+- [Website](https://frosenbrock.github.io/frosenbrock/)   
 - [GitHub](https://github.com/frosenbrock)
 
 ---
